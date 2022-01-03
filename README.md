@@ -10,6 +10,7 @@ help the drug manufacturers understand the sentiments behind thousands of review
 
 | column name  | description |
 | ------------- | ------------- |
+| uniqueID    |   number ID  |
 | drugName  | name of drug  |
 | condition  | name of condition  |
 | review  | patient review  |
@@ -28,7 +29,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/jessicali9530/kuc-hackatho
 - NLP (Natural Language Processing).
 - K- Means
 - Hierarchical
-- Topic Modeling..
+- Topic Modeling (LDA)
 - Classification Models
 
 
